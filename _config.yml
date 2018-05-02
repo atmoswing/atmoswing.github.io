@@ -7,11 +7,10 @@ description: Analog Technique Model for Statistical weather forecastING / downsc
 
 # --- Navigation bar options --- #
 
-# List of links in the navigation bar
 navbar-links:
   User documentation: "http://atmoswing.readthedocs.io"
   Resources:
-    - Main repository: "https://github.com/atmoswing/atmoswing"
+    - Repository: "https://github.com/atmoswing/atmoswing"
     - R toolbox: "https://github.com/atmoswing/r-toolbox"
   References: "references"
 
@@ -56,7 +55,7 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "someone@example.com"
+  email: "pascal.horton@giub.unibe.ch"
   github: atmoswing
 
 # Select which share links to show in posts
