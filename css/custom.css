@@ -1,4 +1,9 @@
 
 .large-icon {
-    width: 100px;
+    height: 100px;
+}
+
+.spacer-m {
+    height: 20px;
+    display: block;
 }
