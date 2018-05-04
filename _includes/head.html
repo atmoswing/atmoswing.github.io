@@ -50,6 +50,8 @@
       <link rel="stylesheet" href="//fonts.googleapis.com/css?family={{ font }}" />
     {% endfor %}
   {% endif %}
+  
+  <link rel="stylesheet" href="{{ 'css/custom.css' | prepend: site.baseurl | replace: '//', '/' }}" />
 
     <!-- Facebook OpenGraph tags -->
   {% if site.fb_app_id %}
