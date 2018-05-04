@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Optimization with Genetic Agorithms is now released
-image: /img/posts/genetic-algorithms.png
 ---
 
 The optimization by means of Genetic Algorithms is now part of the main repository. It can be used by anyone along with the classic semi-automatic calibration method. 
