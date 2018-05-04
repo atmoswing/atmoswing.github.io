@@ -8,6 +8,10 @@
     color: #555;
 }
 
+.large-icons-stack .col-xs-6 {
+    margin-bottom: 30px;
+}
+
 .large-icon {
     height: 100px;
     fill: #555;
