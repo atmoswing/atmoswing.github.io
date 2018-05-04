@@ -2,9 +2,10 @@
 .large-icons-stack {
     text-align: center;
     color: #555;
-    a {
-        color: #555;
-    }
+}
+
+.large-icons-stack  a{
+    color: #555;
 }
 
 .large-icon {
