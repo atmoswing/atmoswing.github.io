@@ -8,6 +8,22 @@
     color: #555;
 }
 
+.large-icons-stack  svg.icon-download{
+    fill: #48a2ff;
+}
+
+.large-icons-stack  svg.icon-docs{
+    fill: #fac400;
+}
+
+.large-icons-stack  svg.icon-repo{
+    fill: #fa6d00;
+}
+
+.large-icons-stack  svg.icon-bug{
+    fill: #b90d00;
+}
+
 .large-icons-stack .col-xs-6 {
     margin-bottom: 30px;
 }
