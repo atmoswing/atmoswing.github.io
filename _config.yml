@@ -8,11 +8,13 @@ description: Analog Technique Model for Statistical weather forecastING / downsc
 # --- Navigation bar options --- #
 
 navbar-links:
-  Documentation: "http://atmoswing.readthedocs.io"
+  Download: "https://github.com/atmoswing/atmoswing/releases"
+  Docs: "http://atmoswing.readthedocs.io"
   Resources:
     - Repository: "https://github.com/atmoswing/atmoswing"
     - R toolbox: "https://github.com/atmoswing/r-toolbox"
   References: "references"
+  About: "about"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 avatar: "/img/avatar-icon.png"
