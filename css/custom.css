@@ -1,9 +1,18 @@
 
+.large-icons-stack {
+    text-align: center;
+    color: #555;
+    a {
+        color: #555;
+    }
+}
+
 .large-icon {
     height: 100px;
+    fill: #555;
 }
 
 .spacer-m {
-    height: 20px;
+    height: 70px;
     display: block;
 }
